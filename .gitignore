@@ -1,0 +1,11 @@
+
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.egg_info
+dist/
+build/
+.DS_Store
+.env
+*.wav
